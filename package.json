@@ -1,0 +1,30 @@
+{
+  "name": "friedfinder",
+  "version": "1.0.0",
+  "description": "friend finder funny dating app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juarezadolfo/FriendFinder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "azj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juarezadolfo/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/juarezadolfo/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "require": "^2.4.20"
+  }
+}
